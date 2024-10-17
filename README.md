@@ -1,5 +1,5 @@
 <div style="display: flex"><h1>Oi, eu sou o João Pedro Menezes👋</h1>
-
+<div style="display: flex"><h3>Seja bem vindx ao meu perfil</h3>
 <img align="right" alt="Joao-profile" height="150" style="border-radius:50px;" src="https://i.ibb.co/PNXYQ6g/a230dcdf4ca9d238b111483b994de1d1.jpg" alt="Joao_Profile" border="0">
 
 - 🌱 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu</div><br>
