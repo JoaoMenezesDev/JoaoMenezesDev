@@ -2,7 +2,7 @@
 <div style="display: flex"><h3>Seja bem vindx ao meu perfil</h3>
 <img align="right" alt="Joao-profile" height="150" style="border-radius:50px;" src="https://i.ibb.co/PNXYQ6g/a230dcdf4ca9d238b111483b994de1d1.jpg" alt="Joao_Profile" border="0">
 
-- 🌱 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu</div><br>
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu</div><br>
 <div align="left" >
   <a href="https://github.com/DevJohnny1"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMenezesDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
