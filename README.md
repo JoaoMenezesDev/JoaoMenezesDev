@@ -2,7 +2,7 @@
 <div style="display: flex"><h3>Seja bem vindx ao meu perfil</h3>
 <img align="right" alt="Joao-profile" height="150" style="border-radius:50px;" src="https://i.ibb.co/PNXYQ6g/a230dcdf4ca9d238b111483b994de1d1.jpg" alt="Joao_Profile" border="0">
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu</div><br>
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas</div><br>
 <div align="left" >
   <a href="https://github.com/DevJohnny1"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMenezesDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
@@ -19,7 +19,7 @@
   <h2 align="left">Estou aprendendo</h2>
   <div align="center"><br>
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
+  <img align="center" alt="Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
             
   <!--
   <img align="center" alt="" height="30" width="40" src="">
